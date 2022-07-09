@@ -1,3 +1,5 @@
+# Thanks noverd for an original project
+
 from tkinter import *
 from tkinter.ttk import Combobox
 
